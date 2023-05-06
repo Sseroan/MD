@@ -83,7 +83,7 @@ ___
 <!-- Tables -->
 | Name | Email |
 | --- | --- |
-| Ssero Media | sseromadia@gmail.com |
+| Ssero Media | sseromedia@gmail.com |
 | John Doe | john@gmail.com |
 
 <!-- Task Lists -->
